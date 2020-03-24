@@ -30,6 +30,7 @@ body {
 	margin:0;
 	padding:0;
 	list-style: none;
+
 }
 .topoleft li {
 	height:30px;
@@ -421,7 +422,7 @@ body {
 	}
 
 	.menu ul {
-		position:absolute;
+		position:absolute;  /*Tornar o menu flutuante*/
 		background-color: red;
 		z-index: 10;
 		display:none;
